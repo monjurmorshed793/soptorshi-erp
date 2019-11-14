@@ -1,0 +1,9 @@
+[submodule "soptorshi-oauth"]
+	path = soptorshi-oauth
+	url = https://github.com/monjurmorshed793/soptorshi-oauth
+[submodule "soptorshi-hr"]
+	path = soptorshi-hr
+	url = https://github.com/monjurmorshed793/soptorshi-hr
+[submodule "soptorshi-app"]
+	path = soptorshi-app
+	url = https://github.com/monjurmorshed793/soptorshi-app
